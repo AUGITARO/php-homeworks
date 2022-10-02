@@ -28,9 +28,9 @@ $users = [
     
 ];
 
-// print('<pre>');
-// print_r($users);
-// print('</pre>');
+ print('<pre>');
+ print_r($users);
+ print('</pre>');
 
 // 1. Написать функцию, которая будет возвращать одного user’а (из первого задания) в виде ассоциативного массива.
 function getUser()
